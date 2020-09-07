@@ -1,0 +1,1 @@
+go build counting-sundays.go

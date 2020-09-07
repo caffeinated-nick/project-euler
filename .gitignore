@@ -15,5 +15,4 @@ App.config
 *.txt
 *.pdf
 *.exe
-*.sh
 *.class
