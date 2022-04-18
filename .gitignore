@@ -16,3 +16,6 @@ App.config
 *.pdf
 *.exe
 *.class
+
+# Rust
+main
